@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CustomerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-14T04:48:05" hostname="DESKTOP-TQ5EV63" time="0.096">
+  <properties/>
+  <testcase name="손님이 메뉴이름에 해당하는 주문을 한다" classname="org.example.CustomerTest" time="0.096"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
