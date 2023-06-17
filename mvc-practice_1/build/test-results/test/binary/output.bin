@@ -1,0 +1,12 @@
+V22:38:56.793 [Test worker] DEBUG org.example.ReflectionTest - org.example.model.User
+Ê22:38:56.797 [Test worker] DEBUG org.example.ReflectionTest - User all declared fields: [[private java.lang.String org.example.model.User.userId, private java.lang.String org.example.model.User.name]]
+¤22:38:56.798 [Test worker] DEBUG org.example.ReflectionTest - User all declared constructors: [[public org.example.model.User(java.lang.String,java.lang.String)]]
+•22:38:56.799 [Test worker] DEBUG org.example.ReflectionTest - User all declared methods: [[public boolean org.example.model.User.equals(java.lang.Object), public int org.example.model.User.hashCode(), public boolean org.example.model.User.equalsUser(org.example.model.User)]]
+e22:38:56.809 [Test worker] DEBUG org.example.ReflectionTest - clazz: [class org.example.model.User]
+f22:38:56.809 [Test worker] DEBUG org.example.ReflectionTest - clazz2: [class org.example.model.User]
+f22:38:56.809 [Test worker] DEBUG org.example.ReflectionTest - clazz3: [class org.example.model.User]
+Û22:38:56.883 [Test worker] DEBUG org.reflections.Reflections - going to scan these urls: [file:/D:/SJ/fastcampus/mvc-practice_1/build/classes/java/main/, file:/D:/SJ/fastcampus/mvc-practice_1/build/classes/java/test/]
+†22:38:56.931 [Test worker] INFO org.reflections.Reflections - Reflections took 47 ms to scan 2 urls, producing 6 keys and 10 values 
+x22:38:56.933 [Test worker] DEBUG org.reflections.Reflections - expanded subtype java.lang.Comparable -> java.lang.Enum
+x22:38:56.933 [Test worker] DEBUG org.reflections.Reflections - expanded subtype java.io.Serializable -> java.lang.Enum
+Ó22:38:56.936 [Test worker] DEBUG org.example.ReflectionTest - beans: [[class org.example.controller.HealthCheckController, class org.example.controller.HomeCotroller, class org.example.controller.HomeService]]
